@@ -1,27 +1,31 @@
-👋 Hello, I'm Shaheryar!
+<h1 align="center">Hi 👋, I'm Shaheryar!</h1>
+<h3 align="center">🎮 Unity Expert Freak | Game Developer</h3>
 
-🎮 Unity Expert Freak | Game Developer
+### 🔧 Skills & Expertise:
+- 🟢 Game Optimization
+- 🟢 Game Animations
+- 🟢 Script Scraping and Cleaning
+- 🟢 Unity Automation Tools
+- 🟢 Level Designing
+- 🟢 CutScene using Cinemachine
 
-🔧 Skills & Expertise:
+### 🛠️ Tools & Techniques:
+- 🟢 Realistic Car Controller (RCC)
+- 🟢 Dotween Animator
+- 🟢 Unity Assets Particle
+- 🟢 Profiler
+- 🟢 Invector System
+- 🟢 Google AdMob
 
-🟢 Game Optimization
-🟢 Game Animations
-🟢 Script Scraping and Cleaning
-🟢 Unity Automation Tools
-🟢 Level Designing
-🟢 CutScene using Cinemachine
-🛠️ Tools & Techniques:
+### 📱 Platforms:
+- Mobile Games
+- WebGL Projects
 
-🟢 Realistic Car Controller (RCC)
-🟢 Dotween Animator
-🟢 Unity Assets Particle
-🟢 Profiler
-🟢 Invector System
-🟢 Google AdMob
-📱 Platforms:
+### 🚀 Focus:
+- Recently shifted focus to AR/VR Development, passionate about creating immersive experiences through Unity!
 
-Mobile Games
-WebGl Projects
-🚀 Recently shifted focus to AR/VR Development, passionate about creating immersive experiences through Unity!
+---
 
-Feel free to use this on your GitHub profile!
+Feel free to connect with me: Shaheryaryar456@gmail.com
+
+---
