@@ -19,7 +19,7 @@
 
 <strong>📱 Platforms:</strong><br>
 - Mobile Games<br>
-- WebGL Projects<br
+- WebGL Projects
 
 <p align="center">
   <strong>🚀 Focus:</strong><br>
