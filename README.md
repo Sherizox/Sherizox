@@ -2,12 +2,12 @@
 <h3 align="center">🎮 Unity Expert Freak | Game Developer</h3>
 
 <strong>🔧 Skills & Expertise:</strong><br>
-- 🟢 Game Optimization<br>
-- 🟢 Game Animations<br>
-- 🟢 Script Scraping and Cleaning<br>
-- 🟢 Unity Automation Tools<br>
-- 🟢 Level Designing<br>
-- 🟢 CutScene using Cinemachine<br>
+- ✔️ Game Optimization<br>
+- ✔️ Game Animations<br>
+- ✔️ Script Scraping and Cleaning<br>
+- ✔️ Unity Automation Tools<br>
+- ✔️ Level Designing<br>
+- ✔️ CutScene using Cinemachine<br>
 
 <strong>🛠️ Tools & Techniques:</strong><br>
 - 🟢 Realistic Car Controller (RCC)<br>
