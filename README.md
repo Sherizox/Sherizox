@@ -1,31 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shaheryar!</h1>
 <h3 align="center">🎮 Unity Expert Freak | Game Developer</h3>
 
-<p align="center">
-  <strong>🔧 Skills & Expertise:</strong><br>
-  - 🟢 Game Optimization<br>
-  - 🟢 Game Animations<br>
-  - 🟢 Script Scraping and Cleaning<br>
-  - 🟢 Unity Automation Tools<br>
-  - 🟢 Level Designing<br>
-  - 🟢 CutScene using Cinemachine<br>
-</p>
+<strong>🔧 Skills & Expertise:</strong><br>
+- 🟢 Game Optimization<br>
+- 🟢 Game Animations<br>
+- 🟢 Script Scraping and Cleaning<br>
+- 🟢 Unity Automation Tools<br>
+- 🟢 Level Designing<br>
+- 🟢 CutScene using Cinemachine<br>
 
-<p align="center">
-  <strong>🛠️ Tools & Techniques:</strong><br>
-  - 🟢 Realistic Car Controller (RCC)<br>
-  - 🟢 Dotween Animator<br>
-  - 🟢 Unity Assets Particle<br>
-  - 🟢 Profiler<br>
-  - 🟢 Invector System<br>
-  - 🟢 Google AdMob<br>
-</p>
+<strong>🛠️ Tools & Techniques:</strong><br>
+- 🟢 Realistic Car Controller (RCC)<br>
+- 🟢 Dotween Animator<br>
+- 🟢 Unity Assets Particle<br>
+- 🟢 Profiler<br>
+- 🟢 Invector System<br>
+- 🟢 Google AdMob<br>
 
-<p align="center">
-  <strong>📱 Platforms:</strong><br>
-  - Mobile Games<br>
-  - WebGL Projects<br>
-</p>
+<strong>📱 Platforms:</strong><br>
+- Mobile Games<br>
+- WebGL Projects<br
 
 <p align="center">
   <strong>🚀 Focus:</strong><br>
