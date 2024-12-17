@@ -92,9 +92,6 @@
 
 ---
 
-📌 **Explore my repositories** for Unity projects, tools, and game prototypes! Let’s collaborate and bring ideas to life. 🚀  
 🚀 *Feel free to reach out for discussions, contributions, or collaborations!*  
 
----
 
-**🖥️ Let's Code, Create, and Conquer! 🎮**  
