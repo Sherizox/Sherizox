@@ -29,7 +29,7 @@
 - 🟢 **Invector System** (Third-Person Controller)  
 - 🟢 **Google AdMob & Unity Ads** (Monetization Integration)  
 - 🟢 **NavMesh AI** (Pathfinding for Characters)  
-- 🟢 **Scriptable Objects** (Data Management & Flexibility)  
+- 🟢 Firebase (Realtime Database, Analytics)
 
 ---
 
