@@ -90,6 +90,12 @@
   </a>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sherizox&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ---
 
 🚀 *Feel free to reach out for discussions, contributions, or collaborations!*  
