@@ -20,7 +20,10 @@
 ---
 
 <p align="center">
-  Passionate about building engaging games and delivering optimized game development solutions with <strong>Unity</strong>.
+  Simply exploring new cool things in unity ,My primarily focus is game development i have making games for   
+  android for 2yrs now deep diving to learn and making indie games  
+  Shinfting my direction to make better gamesss
+  <strong>Unity</strong>.
 </p>
 
 ---
