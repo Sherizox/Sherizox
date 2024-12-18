@@ -43,7 +43,6 @@
 ### 🚀 **Projects & Contributions**  
 - **Custom Unity Tools**: Tools that automate repetitive tasks, boosting development efficiency.  
 - **Game Prototypes**: Playable prototypes showcasing advanced game mechanics.  
-- **Multiplayer Features**: Implemented real-time player connections using Photon PUN.  
 - **Optimized Mobile Games**: Smooth performance across low-end and high-end devices.  
 
 ---
