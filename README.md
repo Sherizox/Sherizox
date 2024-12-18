@@ -16,7 +16,6 @@
 - ✔️ CutScene Creation using **Cinemachine**  
 - ✔️ Physics Systems (Ragdolls, Gravity, Colliders)  
 - ✔️ AI Development (Pathfinding, Enemy Behavior)  
-- ✔️ Multiplayer Setup with Photon PUN  
 - ✔️ UI/UX Implementation with Unity UI Toolkit  
 
 ---
