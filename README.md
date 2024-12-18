@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaheryar</h1>
 <h3 align="center">🎮 Unity | Game Developer</h3>
 
----
 ### 🌟 **Connect With Me**  
 <p align="center">
   <a href="https://www.linkedin.com/in/sherizox/" target="_blank">
