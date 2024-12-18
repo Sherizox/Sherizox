@@ -72,7 +72,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sherizox&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sherizox&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sherizox&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 
