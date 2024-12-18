@@ -68,9 +68,9 @@
 </p>
 
 📊 GitHub Activity Overview
-<p align="center"> <!-- GitHub Stats (Left) --> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" alt="GitHub Stats" /> <!-- GitHub Streak Stats (Right) --> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sherizox&theme=algolia&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak Stats" /> </p> <p align="center" style="margin-top: 50px;"> <!-- Most Used Languages (Bottom Center) --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" alt="Top Languages" /> </p>
----
+<p align="center"> <!-- GitHub Stats (Left) --> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="45%" alt="GitHub Stats" /> <!-- GitHub Streak Stats (Right) --> <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Sherizox&theme=algolia&hide_border=false" width="45%" alt="GitHub Streak Stats" /> </p> <p align="center" style="clear: both; margin-top: 20px;"> <!-- Most Used Languages (Bottom Center) --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" alt="Top Languages" /> </p>
 
+----
 🚀 *Feel free to reach out for discussions, contributions, or collaborations!*  
 
 
