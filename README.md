@@ -83,10 +83,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
-  <!-- Photoshop -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
+  
 </p>
 
 # 📊 GitHub Stats:
