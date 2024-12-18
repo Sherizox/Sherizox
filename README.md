@@ -16,7 +16,6 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>  
----
 
 <p align="center">
   Simply exploring new cool things in unity ,My primarily focus is game development i have making games for   
