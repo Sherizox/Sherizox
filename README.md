@@ -68,12 +68,7 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sherizox&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sherizox&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+<p align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> </p> <p align="center"> <!-- Streak Stats --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sherizox&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" /> </p> <p align="center"> <!-- Top Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /> </p>
 
 
 ---
