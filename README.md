@@ -22,8 +22,9 @@
 ---
 
 ### 👋 About Me
-Hey there! I’m Shaheryar, a passionate Unity Game Developer with 2+ years of experience creating immersive and optimized games. I started with Android games and now, I’m diving deeper into indie development and exploring new frontiers with Unity.  
-Currently, I’m collaborating on my first Steam project with friends, focusing on creating engaging gameplay, unique mechanics, and optimized experiences for PC. 🚀  
+Simply exploring new cool things in unity ,My primarily focus is game development i have making games for   
+android for 2yrs now deep diving to learn and making indie games  
+Shinfting my direction to make better gamesss 🚀  
 
 ---
 
