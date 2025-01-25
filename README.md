@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shaheryar</h1>
-<h3 align="center">🎮 Unity | Game Developer</h3>
+# Hi 👋, I'm Shaheryar
+🎮 Unity | Game Developer
 
-### 🌟 **Connect With Me**  
+---
+
+### 🌟 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sherizox/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,61 +19,71 @@
   </a>
 </p>  
 
-<p align="center">
-  Simply exploring new cool things in unity ,My primarily focus is game development i have making games for   
-  android for 2yrs now deep diving to learn and making indie games  
-  Shinfting my direction to make better gamesss
-  <strong>Unity</strong>.
-</p>
+---
+
+### 👋 About Me
+Hey there! I’m Shaheryar, a passionate Unity Game Developer with 2+ years of experience creating immersive and optimized games. I started with Android games and now, I’m diving deeper into indie development and exploring new frontiers with Unity.  
+Currently, I’m collaborating on my first Steam project with friends, focusing on creating engaging gameplay, unique mechanics, and optimized experiences for PC. 🚀  
 
 ---
 
-### 🔧 **Skills & Expertise**  
-- ✔️ Game Optimization & Performance Tuning  
-- ✔️ Game Animations (2D/3D)  
-- ✔️ Script Scraping, Cleaning, and Refactoring  
-- ✔️ Unity Automation Tools & Custom Editor Scripting  
-- ✔️ Level Designing & Scene Management  
-- ✔️ CutScene Creation using **Cinemachine**  
-- ✔️ Physics Systems (Ragdolls, Gravity, Colliders)  
-- ✔️ AI Development (Pathfinding, Enemy Behavior)  
-- ✔️ UI/UX Implementation with Unity UI Toolkit  
+### 🔧 Skills & Expertise
+- **Game Optimization**: Performance tuning using Unity Profiler, LODs, and draw call reduction.  
+- **Lighting Systems**: Mastery of Unity's real-time and baked lighting, lightmapping, and reflection probes for dynamic environments.  
+- **Game Animations**: Proficient in creating 2D/3D animations, avatar masking, and blending.  
+- **Custom Tools**: Automating repetitive tasks with Unity Editor Scripting and custom tools.  
+- **Level Design**: Designing levels with detailed scene management, NavMesh integration, and AI pathfinding.  
+- **Cinematics**: Crafting smooth cutscenes using **Cinemachine** and Unity's Timeline.  
+- **Physics Systems**: Ragdolls, colliders, triggers, and complex physics interactions.  
+- **UI/UX**: Creating interactive and visually appealing interfaces using Unity UI Toolkit.  
 
 ---
 
-### 🛠️ **Tools & Techniques**  
+### 🛠️ Tools & Frameworks
+- 🟢 **Lighting Tools**: Unity Lightmapping, Reflection Probes, Global Illumination  
 - 🟢 **Realistic Car Controller (RCC)**  
-- 🟢 **Dotween Animator** (Animation Scripting)  
-- 🟢 **Unity Particle Assets** (VFX)  
-- 🟢 **Unity Profiler** (Performance Optimization)  
-- 🟢 **Invector System** (Third-Person Controller)  
-- 🟢 **Google AdMob & Unity Ads** (Monetization Integration)  
-- 🟢 **NavMesh AI** (Pathfinding for Characters)  
-- 🟢 Firebase (Realtime Database, Analytics)
+- 🟢 **Dotween Animator** for Animation Scripting  
+- 🟢 **Particle Systems** for VFX  
+- 🟢 **Unity Profiler** for performance optimization  
+- 🟢 **NavMesh AI** for pathfinding and NPC behavior  
+- 🟢 **Google AdMob & Unity Ads** for monetization  
+- 🟢 Firebase: Real-time Database and Analytics  
 
 ---
 
-### 📱 **Platforms**  
-- 📱 Mobile Game Development (iOS/Android)  
-- 🌐 WebGL Projects  
-- 💻 PC Game Development  
+### 📱 Platforms & Focus
+- 📱 **Mobile Game Development**: Specialized in Android/iOS.  
+- 💻 **PC Game Development**: Currently working on Steam projects.  
+- 🌐 **WebGL Projects**: Lightweight and efficient web-based games.  
 
 ---
 
-### 🚀 **Projects & Contributions**  
-- **Custom Unity Tools**: Tools that automate repetitive tasks, boosting development efficiency.  
-- **Game Prototypes**: Playable prototypes showcasing advanced game mechanics.  
-- **Optimized Mobile Games**: Smooth performance across low-end and high-end devices.  
+### 🚀 Projects & Contributions
+- **Why You Called Me**: Contributed to bug fixes in the main game flow and integrated UI for a smooth player experience. ([Play on Itch.io](https://sajjad-chandio.itch.io/why-you-called-me))    
+- **Custom Unity Tools**: Developed tools to speed up repetitive tasks, improving productivity during game development.  
+- **Mobile Games**: Designed and optimized multiple games for Android, ensuring smooth performance on low-end devices.  
 
-### 🧰 **Tech stack**  
-<p align="center"> <!-- Unity Icon --> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> </a> <!-- C# Icon --> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a> <!-- Visual Studio --> <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> </a> <!-- Git --> <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a> <!-- GitHub --> <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a> <!-- Android --> <a href="https://developer.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/> </a>  <!-- Firebase --> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> <!-- Visual Studio Code --> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a> <!-- JetBrains Rider --> <a href="https://www.jetbrains.com/rider/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" alt="JetBrains Rider" width="40" height="40"/> </a> </p>
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
+  <a href="https://developer.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/rider/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" alt="JetBrains Rider" width="40" height="40"/> </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherizox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-----
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Sherizox&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherizox&theme=dark&hide_border=false&include_all_commits=true&layout=compact)  
+
+---
+
 🚀 *Feel free to reach out for discussions, contributions, or collaborations!*  
-
-
